@@ -6,4 +6,4 @@ export class Products extends Component {
   }
 }
 
-export default Products;
+export default withRouter(Products);
